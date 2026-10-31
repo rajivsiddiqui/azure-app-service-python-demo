@@ -13,7 +13,7 @@ def home():
     </head>
     <body style="text-align:center; font-family:Arial;">
         <h1>Welcome to DevOps Steps!</h1>
-        <h2>Azure App Service Demo3</h2>
+        <h2>Azure App Service Demo4</h2>
         <p>My Python application is running on Azure.</p>
         <p>Deployment: Successful!</p>
     </body>
